@@ -1,0 +1,23 @@
+nav a{
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+h1{text-align: center;
+  font-size: 150px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+img{
+  text-align: center;
+}
+h4{
+  background-color: #990000;
+  color: white;
+  text-align: center;
+}
+h2{
+  text-align: center;
+  font-size: 30px;
+  text-transform: capitalize;
+}
